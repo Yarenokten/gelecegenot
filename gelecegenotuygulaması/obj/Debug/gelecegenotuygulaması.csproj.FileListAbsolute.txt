@@ -1,0 +1,13 @@
+D:\vtg2proje\gelecegenotuygulaması\bin\Debug\gelecegenotuygulaması.exe.config
+D:\vtg2proje\gelecegenotuygulaması\bin\Debug\gelecegenotuygulaması.exe
+D:\vtg2proje\gelecegenotuygulaması\bin\Debug\gelecegenotuygulaması.pdb
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.csproj.AssemblyReference.cache
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.Form1.resources
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.Properties.Resources.resources
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.csproj.GenerateResource.cache
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.csproj.CoreCompileInputs.cache
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.exe
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.pdb
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.Comments.resources
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.loginandsign.resources
+D:\vtg2proje\gelecegenotuygulaması\obj\Debug\gelecegenotuygulaması.NOTS.resources
